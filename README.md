@@ -29,8 +29,7 @@ A simple Android application for managing student records with basic CRUD operat
 
 ### Screenchots of the app
 ![image](https://github.com/user-attachments/assets/1c208d78-130a-42cc-8149-c32d6aea1136)
-![image](https://github.com/user-attachments/assets/d03a4bf5-a507-4d5c-aa57-f2ffd624a36d)
-![image](https://github.com/user-attachments/assets/69b85de7-2fb9-4aea-9496-ba344cd8f1ea)
-![image](https://github.com/user-attachments/assets/630955a4-9d00-4807-991a-21206ea6a3fb)
-![image](https://github.com/user-attachments/assets/b7789505-2729-4960-9855-650d4c168342)
-
+![image](https://github.com/user-attachments/assets/aebc5995-d390-482f-80ad-5dbaa8baf20e)
+![image](https://github.com/user-attachments/assets/66a8d9bc-290e-4dc1-a222-d95ea9ef829c)
+![image](https://github.com/user-attachments/assets/c9d529e0-2315-4d85-a90c-9f2efd1e69d4)
+![image](https://github.com/user-attachments/assets/e384d535-b53b-4174-9d68-301b84dbdfb8)
