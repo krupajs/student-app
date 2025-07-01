@@ -21,11 +21,6 @@ A simple Android application for managing student records with basic CRUD operat
 - Install **Android Studio** 🛠️
 - Enable **developer mode** on your Android device/emulator
 
-### Installation
-1. **Clone the repository**  
-   ```bash
-   git clone (https://github.com/your-username/student-app.git)
-
 ### Screenchots of the app
 ![image](https://github.com/user-attachments/assets/aebc5995-d390-482f-80ad-5dbaa8baf20e)
 ![image](https://github.com/user-attachments/assets/8807eedb-661c-4b4e-8ff7-51c0e6a53faf)
