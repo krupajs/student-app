@@ -24,8 +24,7 @@ A simple Android application for managing student records with basic CRUD operat
 ### Installation
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/student-app.git
-
+   git clone (https://github.com/your-username/student-app.git)
 
 ### Screenchots of the app
 ![image](https://github.com/user-attachments/assets/aebc5995-d390-482f-80ad-5dbaa8baf20e)
